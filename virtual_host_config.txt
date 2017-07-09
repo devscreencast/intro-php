@@ -1,0 +1,10 @@
+
+File name: httpd-vhosts.conf
+
+<VirtualHost *:80>
+    DocumentRoot "D:/xampp/htdocs/first_site"
+    ServerName learnphp.dev   
+</VirtualHost>
+
+File name: hosts
+127.0.0.1       learnphp.dev
